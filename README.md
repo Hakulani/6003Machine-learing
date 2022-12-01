@@ -11,7 +11,7 @@ Streamlit is a free and open-source framework to rapidly build and share beautif
 pip install streamlit
 pip install - r requirements.txt
 # How to run
-Streamlit is more than just a way to make data apps, it’s also a community of creators that share their apps and ideas and help each other make their work better. Please come join us on the community forum. We love to hear your questions, ideas, and help you work through your bugs — stop by today!
+Streamlit is more than just a way to make data apps, it’s also a community of creators that share their apps and ideas and help each other make their work better.
 ```
 import streamlit as st
 import pandas as pd

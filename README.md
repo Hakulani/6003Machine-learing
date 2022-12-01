@@ -8,3 +8,6 @@ Streamlit is a free and open-source framework to rapidly build and share beautif
 
 # installation 
 pip install streamlit
+
+#How to run
+streamlit run knn.py

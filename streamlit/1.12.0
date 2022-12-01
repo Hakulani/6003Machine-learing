@@ -1,0 +1,333 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\witsaruw\anaconda3\envs\streamlit
+
+  added / updated specs:
+    - streamlit
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    altair-4.1.0               |             py_1         484 KB
+    argon2-cffi-21.3.0         |     pyhd3eb1b0_0          15 KB
+    argon2-cffi-bindings-21.2.0|  py310h2bbff1b_0          36 KB
+    arrow-cpp-8.0.0            |  py310h38b8b19_0         6.2 MB
+    asttokens-2.0.5            |     pyhd3eb1b0_0          20 KB
+    attrs-21.4.0               |     pyhd3eb1b0_0          51 KB
+    aws-c-common-0.4.57        |       ha925a31_1         147 KB
+    aws-c-event-stream-0.1.6   |       hd77b12b_5          26 KB
+    aws-checksums-0.1.9        |       ha925a31_0          50 KB
+    aws-sdk-cpp-1.8.185        |       hd77b12b_0         2.5 MB
+    beautifulsoup4-4.11.1      |  py310haa95532_0         193 KB
+    bleach-4.1.0               |     pyhd3eb1b0_0         123 KB
+    blinker-1.4                |  py310haa95532_0          22 KB
+    boost-cpp-1.73.0           |      h2bbff1b_12          16 KB
+    bottleneck-1.3.5           |  py310h9128911_0         106 KB
+    brotlipy-0.7.0             |py310h2bbff1b_1002         335 KB
+    c-ares-1.18.1              |       h2bbff1b_0         110 KB
+    cachetools-4.2.2           |     pyhd3eb1b0_0          13 KB
+    cffi-1.15.1                |  py310h2bbff1b_0         220 KB
+    click-8.0.4                |  py310haa95532_0         157 KB
+    colorama-0.4.5             |  py310haa95532_0          28 KB
+    commonmark-0.9.1           |     pyhd3eb1b0_0          47 KB
+    cryptography-37.0.1        |  py310h21b164f_0         985 KB
+    debugpy-1.5.1              |  py310hd77b12b_0         2.6 MB
+    decorator-5.1.1            |     pyhd3eb1b0_0          12 KB
+    entrypoints-0.4            |  py310haa95532_0          17 KB
+    executing-0.8.3            |     pyhd3eb1b0_0          18 KB
+    future-0.18.2              |  py310haa95532_1         672 KB
+    gflags-2.2.2               |       ha925a31_0         233 KB
+    gitdb-4.0.7                |     pyhd3eb1b0_0          50 KB
+    gitpython-3.1.18           |     pyhd3eb1b0_1         125 KB
+    glog-0.5.0                 |       hd77b12b_0          85 KB
+    idna-3.3                   |     pyhd3eb1b0_0          49 KB
+    importlib-metadata-4.11.3  |  py310haa95532_0          41 KB
+    ipykernel-6.15.2           |  py310haa95532_0         193 KB
+    ipython-8.4.0              |  py310haa95532_0        1012 KB
+    jedi-0.18.1                |  py310haa95532_1         983 KB
+    jinja2-3.0.3               |     pyhd3eb1b0_0         106 KB
+    jsonschema-4.16.0          |  py310haa95532_0         145 KB
+    jupyter_client-7.3.5       |  py310haa95532_0         214 KB
+    jupyter_core-4.11.1        |  py310haa95532_0          93 KB
+    libboost-1.73.0            |      h6c2663c_12        20.1 MB
+    libcurl-7.84.0             |       h86230a5_0         300 KB
+    libprotobuf-3.20.1         |       h23ce68f_0         2.0 MB
+    libssh2-1.10.0             |       hcd4344a_0         222 KB
+    libthrift-0.15.0           |       he1d8c1a_0         675 KB
+    libwebp-1.2.4              |       h2bbff1b_0          67 KB
+    libwebp-base-1.2.4         |       h2bbff1b_0         279 KB
+    markupsafe-2.1.1           |  py310h2bbff1b_0          26 KB
+    matplotlib-inline-0.1.6    |  py310haa95532_0          17 KB
+    mistune-0.8.4              |py310h2bbff1b_1000          55 KB
+    nbclient-0.5.13            |  py310haa95532_0         108 KB
+    nbconvert-6.4.4            |  py310haa95532_0         520 KB
+    nbformat-5.5.0             |  py310haa95532_0         146 KB
+    nest-asyncio-1.5.5         |  py310haa95532_0          16 KB
+    notebook-6.4.12            |  py310haa95532_0         4.6 MB
+    numexpr-2.8.3              |  py310hb57aa6b_0         119 KB
+    pandas-1.4.4               |  py310hd77b12b_0         8.7 MB
+    pandocfilters-1.5.0        |     pyhd3eb1b0_0          11 KB
+    parso-0.8.3                |     pyhd3eb1b0_0          70 KB
+    prometheus_client-0.14.1   |  py310haa95532_0          90 KB
+    protobuf-3.20.1            |  py310hd77b12b_0         233 KB
+    psutil-5.9.0               |  py310h2bbff1b_0         353 KB
+    pure_eval-0.2.2            |     pyhd3eb1b0_0          14 KB
+    pyarrow-8.0.0              |  py310h26aae1b_0         2.1 MB
+    pycparser-2.21             |     pyhd3eb1b0_0          94 KB
+    pydeck-0.7.1               |  py310haa95532_0         1.6 MB
+    pygments-2.11.2            |     pyhd3eb1b0_0         759 KB
+    pympler-0.9                |             py_0         160 KB
+    pyopenssl-22.0.0           |     pyhd3eb1b0_0          50 KB
+    pyrsistent-0.18.0          |  py310h2bbff1b_0          87 KB
+    pysocks-1.7.1              |  py310haa95532_0          28 KB
+    python-fastjsonschema-2.16.2|  py310haa95532_0         232 KB
+    pytz-2022.1                |  py310haa95532_0         196 KB
+    pywin32-302                |  py310h2bbff1b_2         5.5 MB
+    pywinpty-2.0.2             |  py310h5da7b33_0         202 KB
+    pyyaml-6.0                 |  py310h2bbff1b_0         147 KB
+    pyzmq-23.2.0               |  py310hd77b12b_0         405 KB
+    re2-2022.04.01             |       hd77b12b_0         374 KB
+    requests-2.28.1            |  py310haa95532_0         101 KB
+    rich-12.5.1                |  py310haa95532_0         396 KB
+    semver-2.13.0              |     pyhd3eb1b0_0          16 KB
+    smmap-4.0.0                |     pyhd3eb1b0_0          23 KB
+    snappy-1.1.9               |       h6c2663c_0         2.2 MB
+    soupsieve-2.3.1            |     pyhd3eb1b0_0          34 KB
+    stack_data-0.2.0           |     pyhd3eb1b0_0          22 KB
+    streamlit-1.11.0           |  py310haa95532_0         6.6 MB
+    terminado-0.13.1           |  py310haa95532_0          31 KB
+    testpath-0.6.0             |  py310haa95532_0          85 KB
+    toolz-0.11.2               |     pyhd3eb1b0_0          49 KB
+    traitlets-5.1.1            |     pyhd3eb1b0_0          84 KB
+    typing-extensions-4.3.0    |  py310haa95532_0           9 KB
+    typing_extensions-4.3.0    |  py310haa95532_0          43 KB
+    tzlocal-2.1                |  py310haa95532_0          31 KB
+    urllib3-1.26.11            |  py310haa95532_0         186 KB
+    utf8proc-2.6.1             |       h2bbff1b_0         312 KB
+    validators-0.18.2          |     pyhd3eb1b0_0          18 KB
+    watchdog-2.1.6             |  py310haa95532_0         113 KB
+    webencodings-0.5.1         |  py310haa95532_1          21 KB
+    widgetsnbextension-3.5.2   |  py310haa95532_0         651 KB
+    win_inet_pton-1.1.0        |  py310haa95532_0           9 KB
+    zeromq-4.3.4               |       hd77b12b_0         4.2 MB
+    zipp-3.8.0                 |  py310haa95532_0          20 KB
+    ------------------------------------------------------------
+                                           Total:        84.0 MB
+
+The following NEW packages will be INSTALLED:
+
+  altair             pkgs/main/noarch::altair-4.1.0-py_1
+  argon2-cffi        pkgs/main/noarch::argon2-cffi-21.3.0-pyhd3eb1b0_0
+  argon2-cffi-bindi~ pkgs/main/win-64::argon2-cffi-bindings-21.2.0-py310h2bbff1b_0
+  arrow-cpp          pkgs/main/win-64::arrow-cpp-8.0.0-py310h38b8b19_0
+  asttokens          pkgs/main/noarch::asttokens-2.0.5-pyhd3eb1b0_0
+  attrs              pkgs/main/noarch::attrs-21.4.0-pyhd3eb1b0_0
+  aws-c-common       pkgs/main/win-64::aws-c-common-0.4.57-ha925a31_1
+  aws-c-event-stream pkgs/main/win-64::aws-c-event-stream-0.1.6-hd77b12b_5
+  aws-checksums      pkgs/main/win-64::aws-checksums-0.1.9-ha925a31_0
+  aws-sdk-cpp        pkgs/main/win-64::aws-sdk-cpp-1.8.185-hd77b12b_0
+  backcall           pkgs/main/noarch::backcall-0.2.0-pyhd3eb1b0_0
+  beautifulsoup4     pkgs/main/win-64::beautifulsoup4-4.11.1-py310haa95532_0
+  blas               pkgs/main/win-64::blas-1.0-mkl
+  bleach             pkgs/main/noarch::bleach-4.1.0-pyhd3eb1b0_0
+  blinker            pkgs/main/win-64::blinker-1.4-py310haa95532_0
+  boost-cpp          pkgs/main/win-64::boost-cpp-1.73.0-h2bbff1b_12
+  bottleneck         pkgs/main/win-64::bottleneck-1.3.5-py310h9128911_0
+  brotli             pkgs/main/win-64::brotli-1.0.9-h2bbff1b_7
+  brotli-bin         pkgs/main/win-64::brotli-bin-1.0.9-h2bbff1b_7
+  brotlipy           pkgs/main/win-64::brotlipy-0.7.0-py310h2bbff1b_1002
+  c-ares             pkgs/main/win-64::c-ares-1.18.1-h2bbff1b_0
+  cachetools         pkgs/main/noarch::cachetools-4.2.2-pyhd3eb1b0_0
+  cffi               pkgs/main/win-64::cffi-1.15.1-py310h2bbff1b_0
+  charset-normalizer pkgs/main/noarch::charset-normalizer-2.0.4-pyhd3eb1b0_0
+  click              pkgs/main/win-64::click-8.0.4-py310haa95532_0
+  colorama           pkgs/main/win-64::colorama-0.4.5-py310haa95532_0
+  commonmark         pkgs/main/noarch::commonmark-0.9.1-pyhd3eb1b0_0
+  cryptography       pkgs/main/win-64::cryptography-37.0.1-py310h21b164f_0
+  dataclasses        pkgs/main/noarch::dataclasses-0.8-pyh6d0b6a4_7
+  debugpy            pkgs/main/win-64::debugpy-1.5.1-py310hd77b12b_0
+  decorator          pkgs/main/noarch::decorator-5.1.1-pyhd3eb1b0_0
+  defusedxml         pkgs/main/noarch::defusedxml-0.7.1-pyhd3eb1b0_0
+  entrypoints        pkgs/main/win-64::entrypoints-0.4-py310haa95532_0
+  executing          pkgs/main/noarch::executing-0.8.3-pyhd3eb1b0_0
+  freetype           pkgs/main/win-64::freetype-2.10.4-hd328e21_0
+  future             pkgs/main/win-64::future-0.18.2-py310haa95532_1
+  gflags             pkgs/main/win-64::gflags-2.2.2-ha925a31_0
+  gitdb              pkgs/main/noarch::gitdb-4.0.7-pyhd3eb1b0_0
+  gitpython          pkgs/main/noarch::gitpython-3.1.18-pyhd3eb1b0_1
+  glog               pkgs/main/win-64::glog-0.5.0-hd77b12b_0
+  idna               pkgs/main/noarch::idna-3.3-pyhd3eb1b0_0
+  importlib-metadata pkgs/main/win-64::importlib-metadata-4.11.3-py310haa95532_0
+  intel-openmp       pkgs/main/win-64::intel-openmp-2021.4.0-haa95532_3556
+  ipykernel          pkgs/main/win-64::ipykernel-6.15.2-py310haa95532_0
+  ipython            pkgs/main/win-64::ipython-8.4.0-py310haa95532_0
+  ipython_genutils   pkgs/main/noarch::ipython_genutils-0.2.0-pyhd3eb1b0_1
+  ipywidgets         pkgs/main/noarch::ipywidgets-7.6.5-pyhd3eb1b0_1
+  jedi               pkgs/main/win-64::jedi-0.18.1-py310haa95532_1
+  jinja2             pkgs/main/noarch::jinja2-3.0.3-pyhd3eb1b0_0
+  jpeg               pkgs/main/win-64::jpeg-9e-h2bbff1b_0
+  jsonschema         pkgs/main/win-64::jsonschema-4.16.0-py310haa95532_0
+  jupyter_client     pkgs/main/win-64::jupyter_client-7.3.5-py310haa95532_0
+  jupyter_core       pkgs/main/win-64::jupyter_core-4.11.1-py310haa95532_0
+  jupyterlab_pygmen~ pkgs/main/noarch::jupyterlab_pygments-0.1.2-py_0
+  jupyterlab_widgets pkgs/main/noarch::jupyterlab_widgets-1.0.0-pyhd3eb1b0_1
+  lerc               pkgs/main/win-64::lerc-3.0-hd77b12b_0
+  libboost           pkgs/main/win-64::libboost-1.73.0-h6c2663c_12
+  libbrotlicommon    pkgs/main/win-64::libbrotlicommon-1.0.9-h2bbff1b_7
+  libbrotlidec       pkgs/main/win-64::libbrotlidec-1.0.9-h2bbff1b_7
+  libbrotlienc       pkgs/main/win-64::libbrotlienc-1.0.9-h2bbff1b_7
+  libcurl            pkgs/main/win-64::libcurl-7.84.0-h86230a5_0
+  libdeflate         pkgs/main/win-64::libdeflate-1.8-h2bbff1b_5
+  libpng             pkgs/main/win-64::libpng-1.6.37-h2a8f88b_0
+  libprotobuf        pkgs/main/win-64::libprotobuf-3.20.1-h23ce68f_0
+  libsodium          pkgs/main/win-64::libsodium-1.0.18-h62dcd97_0
+  libssh2            pkgs/main/win-64::libssh2-1.10.0-hcd4344a_0
+  libthrift          pkgs/main/win-64::libthrift-0.15.0-he1d8c1a_0
+  libtiff            pkgs/main/win-64::libtiff-4.4.0-h8a3f274_0
+  libwebp            pkgs/main/win-64::libwebp-1.2.4-h2bbff1b_0
+  libwebp-base       pkgs/main/win-64::libwebp-base-1.2.4-h2bbff1b_0
+  lz4-c              pkgs/main/win-64::lz4-c-1.9.3-h2bbff1b_1
+  markupsafe         pkgs/main/win-64::markupsafe-2.1.1-py310h2bbff1b_0
+  matplotlib-inline  pkgs/main/win-64::matplotlib-inline-0.1.6-py310haa95532_0
+  mistune            pkgs/main/win-64::mistune-0.8.4-py310h2bbff1b_1000
+  mkl                pkgs/main/win-64::mkl-2021.4.0-haa95532_640
+  mkl-service        pkgs/main/win-64::mkl-service-2.4.0-py310h2bbff1b_0
+  mkl_fft            pkgs/main/win-64::mkl_fft-1.3.1-py310ha0764ea_0
+  mkl_random         pkgs/main/win-64::mkl_random-1.2.2-py310h4ed8f06_0
+  nbclient           pkgs/main/win-64::nbclient-0.5.13-py310haa95532_0
+  nbconvert          pkgs/main/win-64::nbconvert-6.4.4-py310haa95532_0
+  nbformat           pkgs/main/win-64::nbformat-5.5.0-py310haa95532_0
+  nest-asyncio       pkgs/main/win-64::nest-asyncio-1.5.5-py310haa95532_0
+  notebook           pkgs/main/win-64::notebook-6.4.12-py310haa95532_0
+  numexpr            pkgs/main/win-64::numexpr-2.8.3-py310hb57aa6b_0
+  numpy              pkgs/main/win-64::numpy-1.23.1-py310h6d2d95c_0
+  numpy-base         pkgs/main/win-64::numpy-base-1.23.1-py310h206c741_0
+  packaging          pkgs/main/noarch::packaging-21.3-pyhd3eb1b0_0
+  pandas             pkgs/main/win-64::pandas-1.4.4-py310hd77b12b_0
+  pandocfilters      pkgs/main/noarch::pandocfilters-1.5.0-pyhd3eb1b0_0
+  parso              pkgs/main/noarch::parso-0.8.3-pyhd3eb1b0_0
+  pickleshare        pkgs/main/noarch::pickleshare-0.7.5-pyhd3eb1b0_1003
+  pillow             pkgs/main/win-64::pillow-9.2.0-py310hdc2b20a_1
+  prometheus_client  pkgs/main/win-64::prometheus_client-0.14.1-py310haa95532_0
+  prompt-toolkit     pkgs/main/noarch::prompt-toolkit-3.0.20-pyhd3eb1b0_0
+  protobuf           pkgs/main/win-64::protobuf-3.20.1-py310hd77b12b_0
+  psutil             pkgs/main/win-64::psutil-5.9.0-py310h2bbff1b_0
+  pure_eval          pkgs/main/noarch::pure_eval-0.2.2-pyhd3eb1b0_0
+  pyarrow            pkgs/main/win-64::pyarrow-8.0.0-py310h26aae1b_0
+  pycparser          pkgs/main/noarch::pycparser-2.21-pyhd3eb1b0_0
+  pydeck             pkgs/main/win-64::pydeck-0.7.1-py310haa95532_0
+  pygments           pkgs/main/noarch::pygments-2.11.2-pyhd3eb1b0_0
+  pympler            pkgs/main/noarch::pympler-0.9-py_0
+  pyopenssl          pkgs/main/noarch::pyopenssl-22.0.0-pyhd3eb1b0_0
+  pyparsing          pkgs/main/win-64::pyparsing-3.0.9-py310haa95532_0
+  pyrsistent         pkgs/main/win-64::pyrsistent-0.18.0-py310h2bbff1b_0
+  pysocks            pkgs/main/win-64::pysocks-1.7.1-py310haa95532_0
+  python-dateutil    pkgs/main/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
+  python-fastjsonsc~ pkgs/main/win-64::python-fastjsonschema-2.16.2-py310haa95532_0
+  pytz               pkgs/main/win-64::pytz-2022.1-py310haa95532_0
+  pywin32            pkgs/main/win-64::pywin32-302-py310h2bbff1b_2
+  pywinpty           pkgs/main/win-64::pywinpty-2.0.2-py310h5da7b33_0
+  pyyaml             pkgs/main/win-64::pyyaml-6.0-py310h2bbff1b_0
+  pyzmq              pkgs/main/win-64::pyzmq-23.2.0-py310hd77b12b_0
+  re2                pkgs/main/win-64::re2-2022.04.01-hd77b12b_0
+  requests           pkgs/main/win-64::requests-2.28.1-py310haa95532_0
+  rich               pkgs/main/win-64::rich-12.5.1-py310haa95532_0
+  semver             pkgs/main/noarch::semver-2.13.0-pyhd3eb1b0_0
+  send2trash         pkgs/main/noarch::send2trash-1.8.0-pyhd3eb1b0_1
+  six                pkgs/main/noarch::six-1.16.0-pyhd3eb1b0_1
+  smmap              pkgs/main/noarch::smmap-4.0.0-pyhd3eb1b0_0
+  snappy             pkgs/main/win-64::snappy-1.1.9-h6c2663c_0
+  soupsieve          pkgs/main/noarch::soupsieve-2.3.1-pyhd3eb1b0_0
+  stack_data         pkgs/main/noarch::stack_data-0.2.0-pyhd3eb1b0_0
+  streamlit          pkgs/main/win-64::streamlit-1.11.0-py310haa95532_0
+  terminado          pkgs/main/win-64::terminado-0.13.1-py310haa95532_0
+  testpath           pkgs/main/win-64::testpath-0.6.0-py310haa95532_0
+  toml               pkgs/main/noarch::toml-0.10.2-pyhd3eb1b0_0
+  toolz              pkgs/main/noarch::toolz-0.11.2-pyhd3eb1b0_0
+  tornado            pkgs/main/win-64::tornado-6.2-py310h2bbff1b_0
+  traitlets          pkgs/main/noarch::traitlets-5.1.1-pyhd3eb1b0_0
+  typing-extensions  pkgs/main/win-64::typing-extensions-4.3.0-py310haa95532_0
+  typing_extensions  pkgs/main/win-64::typing_extensions-4.3.0-py310haa95532_0
+  tzlocal            pkgs/main/win-64::tzlocal-2.1-py310haa95532_0
+  urllib3            pkgs/main/win-64::urllib3-1.26.11-py310haa95532_0
+  utf8proc           pkgs/main/win-64::utf8proc-2.6.1-h2bbff1b_0
+  validators         pkgs/main/noarch::validators-0.18.2-pyhd3eb1b0_0
+  watchdog           pkgs/main/win-64::watchdog-2.1.6-py310haa95532_0
+  wcwidth            pkgs/main/noarch::wcwidth-0.2.5-pyhd3eb1b0_0
+  webencodings       pkgs/main/win-64::webencodings-0.5.1-py310haa95532_1
+  widgetsnbextension pkgs/main/win-64::widgetsnbextension-3.5.2-py310haa95532_0
+  win_inet_pton      pkgs/main/win-64::win_inet_pton-1.1.0-py310haa95532_0
+  winpty             pkgs/main/win-64::winpty-0.4.3-4
+  yaml               pkgs/main/win-64::yaml-0.2.5-he774522_0
+  zeromq             pkgs/main/win-64::zeromq-4.3.4-hd77b12b_0
+  zipp               pkgs/main/win-64::zipp-3.8.0-py310haa95532_0
+  zstd               pkgs/main/win-64::zstd-1.5.2-h19a0ad4_0
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+gitpython-3.1.18     | 125 KB    |            |   0% gitpython-3.1.18     | 125 KB    | #2         |  13% gitpython-3.1.18     | 125 KB    | ######3    |  64% gitpython-3.1.18     | 125 KB    | ########## | 100% gitpython-3.1.18     | 125 KB    | ########## | 100% 
+snappy-1.1.9         | 2.2 MB    |            |   0% snappy-1.1.9         | 2.2 MB    |            |   1% snappy-1.1.9         | 2.2 MB    | 2          |   2% snappy-1.1.9         | 2.2 MB    | 5          |   6% snappy-1.1.9         | 2.2 MB    | 7          |   8% snappy-1.1.9         | 2.2 MB    | #1         |  11% snappy-1.1.9         | 2.2 MB    | #2         |  13% snappy-1.1.9         | 2.2 MB    | #3         |  14% snappy-1.1.9         | 2.2 MB    | #6         |  16% snappy-1.1.9         | 2.2 MB    | #7         |  17% snappy-1.1.9         | 2.2 MB    | ##2        |  22% snappy-1.1.9         | 2.2 MB    | ##7        |  27% snappy-1.1.9         | 2.2 MB    | ###4       |  34% snappy-1.1.9         | 2.2 MB    | ####       |  40% snappy-1.1.9         | 2.2 MB    | ####6      |  47% snappy-1.1.9         | 2.2 MB    | #####2     |  53% snappy-1.1.9         | 2.2 MB    | #####9     |  60% snappy-1.1.9         | 2.2 MB    | ######5    |  65% snappy-1.1.9         | 2.2 MB    | #######    |  70% snappy-1.1.9         | 2.2 MB    | #######6   |  77% snappy-1.1.9         | 2.2 MB    | ########2  |  83% snappy-1.1.9         | 2.2 MB    | #########  |  90% snappy-1.1.9         | 2.2 MB    | #########8 |  98% snappy-1.1.9         | 2.2 MB    | ########## | 100% 
+prometheus_client-0. | 90 KB     |            |   0% prometheus_client-0. | 90 KB     | #7         |  18% prometheus_client-0. | 90 KB     | #7         |  18% 
+pycparser-2.21       | 94 KB     |            |   0% pycparser-2.21       | 94 KB     |            |   0% 
+notebook-6.4.12      | 4.6 MB    |            |   0% notebook-6.4.12      | 4.6 MB    |            |   0% notebook-6.4.12      | 4.6 MB    | 1          |   1% 
+matplotlib-inline-0. | 17 KB     |            |   0% matplotlib-inline-0. | 17 KB     |            |   0% 
+brotlipy-0.7.0       | 335 KB    |            |   0% brotlipy-0.7.0       | 335 KB    |            |   0% 
+cffi-1.15.1          | 220 KB    |            |   0% cffi-1.15.1          | 220 KB    |            |   0% 
+jinja2-3.0.3         | 106 KB    |            |   0% jinja2-3.0.3         | 106 KB    |            |   0% 
+pywinpty-2.0.2       | 202 KB    |            |   0% pywinpty-2.0.2       | 202 KB    | 7          |   8% pywinpty-2.0.2       | 202 KB    | ########## | 100% pywinpty-2.0.2       | 202 KB    | ########## | 100% 
+libssh2-1.10.0       | 222 KB    |            |   0% libssh2-1.10.0       | 222 KB    |            |   0% 
+attrs-21.4.0         | 51 KB     |            |   0% attrs-21.4.0         | 51 KB     |            |   0% 
+click-8.0.4          | 157 KB    |            |   0% click-8.0.4          | 157 KB    |            |   0% 
+pysocks-1.7.1        | 28 KB     |            |   0% pysocks-1.7.1        | 28 KB     | #####6     |  57% pysocks-1.7.1        | 28 KB     | ########## | 100% 
+pympler-0.9          | 160 KB    |            |   0% pympler-0.9          | 160 KB    | 9          |  10% pympler-0.9          | 160 KB    | ##9        |  30% pympler-0.9          | 160 KB    | ########## | 100% pympler-0.9          | 160 KB    | ########## | 100% 
+parso-0.8.3          | 70 KB     |            |   0% parso-0.8.3          | 70 KB     | ##2        |  23% parso-0.8.3          | 70 KB     | ########## | 100% 
+aws-c-event-stream-0 | 26 KB     |            |   0% aws-c-event-stream-0 | 26 KB     | ######1    |  62% aws-c-event-stream-0 | 26 KB     | ########## | 100% 
+semver-2.13.0        | 16 KB     |            |   0% semver-2.13.0        | 16 KB     | ########## | 100% semver-2.13.0        | 16 KB     | ########## | 100% 
+colorama-0.4.5       | 28 KB     |            |   0% colorama-0.4.5       | 28 KB     | #####6     |  57% colorama-0.4.5       | 28 KB     | ########## | 100% 
+pandas-1.4.4         | 8.7 MB    |            |   0% pandas-1.4.4         | 8.7 MB    |            |   0% pandas-1.4.4         | 8.7 MB    | 2          |   3% pandas-1.4.4         | 8.7 MB    | 5          |   5% pandas-1.4.4         | 8.7 MB    | 7          |   8% pandas-1.4.4         | 8.7 MB    | #          |  10% pandas-1.4.4         | 8.7 MB    | #2         |  13% pandas-1.4.4         | 8.7 MB    | #4         |  15% pandas-1.4.4         | 8.7 MB    | #7         |  17% pandas-1.4.4         | 8.7 MB    | #8         |  18% 
+pyopenssl-22.0.0     | 50 KB     |            |   0% pyopenssl-22.0.0     | 50 KB     |            |   0% 
+jedi-0.18.1          | 983 KB    |            |   0% jedi-0.18.1          | 983 KB    |            |   0% 
+jsonschema-4.16.0    | 145 KB    |            |   0% jsonschema-4.16.0    | 145 KB    |            |   0% 
+bleach-4.1.0         | 123 KB    |            |   0% bleach-4.1.0         | 123 KB    |            |   0% 
+pyrsistent-0.18.0    | 87 KB     |            |   0% pyrsistent-0.18.0    | 87 KB     | #8         |  18% pyrsistent-0.18.0    | 87 KB     | #8         |  18% 
+libcurl-7.84.0       | 300 KB    |            |   0% libcurl-7.84.0       | 300 KB    |            |   0% 
+watchdog-2.1.6       | 113 KB    |            |   0% watchdog-2.1.6       | 113 KB    |            |   0% 
+c-ares-1.18.1        | 110 KB    |            |   0% c-ares-1.18.1        | 110 KB    | #4         |  14% c-ares-1.18.1        | 110 KB    | ########## | 100% c-ares-1.18.1        | 110 KB    | ########## | 100% 
+libwebp-base-1.2.4   | 279 KB    |            |   0% libwebp-base-1.2.4   | 279 KB    | 5          |   6% libwebp-base-1.2.4   | 279 KB    | ########   |  80% libwebp-base-1.2.4   | 279 KB    | ########## | 100% 
+libprotobuf-3.20.1   | 2.0 MB    |            |   0% libprotobuf-3.20.1   | 2.0 MB    |            |   1% libprotobuf-3.20.1   | 2.0 MB    | 3          |   4% libprotobuf-3.20.1   | 2.0 MB    | 6          |   6% libprotobuf-3.20.1   | 2.0 MB    | #1         |  11% libprotobuf-3.20.1   | 2.0 MB    | ##1        |  22% libprotobuf-3.20.1   | 2.0 MB    | ###1       |  31% libprotobuf-3.20.1   | 2.0 MB    | ####3      |  44% libprotobuf-3.20.1   | 2.0 MB    | #####4     |  55% libprotobuf-3.20.1   | 2.0 MB    | ######7    |  68% libprotobuf-3.20.1   | 2.0 MB    | ########2  |  82% libprotobuf-3.20.1   | 2.0 MB    | #########6 |  96% libprotobuf-3.20.1   | 2.0 MB    | ########## | 100% 
+mistune-0.8.4        | 55 KB     |            |   0% mistune-0.8.4        | 55 KB     | ##9        |  29% mistune-0.8.4        | 55 KB     | ########## | 100% mistune-0.8.4        | 55 KB     | ########## | 100% 
+entrypoints-0.4      | 17 KB     |            |   0% entrypoints-0.4      | 17 KB     | #########4 |  94% entrypoints-0.4      | 17 KB     | ########## | 100% 
+asttokens-2.0.5      | 20 KB     |            |   0% asttokens-2.0.5      | 20 KB     | #######8   |  78% asttokens-2.0.5      | 20 KB     | ########## | 100% 
+rich-12.5.1          | 396 KB    |            |   0% rich-12.5.1          | 396 KB    | 4          |   4% rich-12.5.1          | 396 KB    | ###2       |  32% rich-12.5.1          | 396 KB    | ######8    |  69% rich-12.5.1          | 396 KB    | ########8  |  89% rich-12.5.1          | 396 KB    | ########## | 100% 
+typing-extensions-4. | 9 KB      |            |   0% typing-extensions-4. | 9 KB      | ########## | 100% typing-extensions-4. | 9 KB      | ########## | 100% 
+debugpy-1.5.1        | 2.6 MB    |            |   0% debugpy-1.5.1        | 2.6 MB    |            |   1% debugpy-1.5.1        | 2.6 MB    | 3          |   4% debugpy-1.5.1        | 2.6 MB    | 7          |   8% debugpy-1.5.1        | 2.6 MB    | #2         |  13% debugpy-1.5.1        | 2.6 MB    | #6         |  16% debugpy-1.5.1        | 2.6 MB    | ##2        |  22% debugpy-1.5.1        | 2.6 MB    | ##6        |  26% debugpy-1.5.1        | 2.6 MB    | ##9        |  30% debugpy-1.5.1        | 2.6 MB    | ###2       |  33% debugpy-1.5.1        | 2.6 MB    | ###8       |  39% debugpy-1.5.1        | 2.6 MB    | ####3      |  44% debugpy-1.5.1        | 2.6 MB    | ####8      |  48% debugpy-1.5.1        | 2.6 MB    | #####3     |  53% debugpy-1.5.1        | 2.6 MB    | #####8     |  59% debugpy-1.5.1        | 2.6 MB    | ######3    |  63% debugpy-1.5.1        | 2.6 MB    | ######9    |  69% debugpy-1.5.1        | 2.6 MB    | #######4   |  74% debugpy-1.5.1        | 2.6 MB    | #######9   |  79% debugpy-1.5.1        | 2.6 MB    | ########4  |  84% debugpy-1.5.1        | 2.6 MB    | #########  |  90% debugpy-1.5.1        | 2.6 MB    | #########5 |  96% debugpy-1.5.1        | 2.6 MB    | ########## | 100% 
+cryptography-37.0.1  | 985 KB    |            |   0% cryptography-37.0.1  | 985 KB    | 1          |   2% cryptography-37.0.1  | 985 KB    | #4         |  15% cryptography-37.0.1  | 985 KB    | ##5        |  26% cryptography-37.0.1  | 985 KB    | ####2      |  42% cryptography-37.0.1  | 985 KB    | #####6     |  57% cryptography-37.0.1  | 985 KB    | #######1   |  71% cryptography-37.0.1  | 985 KB    | ########4  |  84% cryptography-37.0.1  | 985 KB    | ########## | 100% cryptography-37.0.1  | 985 KB    | ########## | 100% 
+pandocfilters-1.5.0  | 11 KB     |            |   0% pandocfilters-1.5.0  | 11 KB     | ########## | 100% pandocfilters-1.5.0  | 11 KB     | ########## | 100% 
+commonmark-0.9.1     | 47 KB     |            |   0% commonmark-0.9.1     | 47 KB     | ###4       |  34% commonmark-0.9.1     | 47 KB     | ########## | 100% 
+libthrift-0.15.0     | 675 KB    |            |   0% libthrift-0.15.0     | 675 KB    | 2          |   2% libthrift-0.15.0     | 675 KB    | #8         |  19% libthrift-0.15.0     | 675 KB    | ###3       |  33% libthrift-0.15.0     | 675 KB    | #####6     |  57% libthrift-0.15.0     | 675 KB    | #######3   |  73% libthrift-0.15.0     | 675 KB    | #########9 |  99% libthrift-0.15.0     | 675 KB    | ########## | 100% 
+pyzmq-23.2.0         | 405 KB    |            |   0% pyzmq-23.2.0         | 405 KB    | 3          |   4% pyzmq-23.2.0         | 405 KB    | ####7      |  47% pyzmq-23.2.0         | 405 KB    | #########  |  91% pyzmq-23.2.0         | 405 KB    | ########## | 100% 
+executing-0.8.3      | 18 KB     |            |   0% executing-0.8.3      | 18 KB     | ########7  |  88% executing-0.8.3      | 18 KB     | ########## | 100% 
+zipp-3.8.0           | 20 KB     |            |   0% zipp-3.8.0           | 20 KB     | #######9   |  79% zipp-3.8.0           | 20 KB     | ########## | 100% 
+pure_eval-0.2.2      | 14 KB     |            |   0% pure_eval-0.2.2      | 14 KB     | ########## | 100% pure_eval-0.2.2      | 14 KB     | ########## | 100% 
+pyyaml-6.0           | 147 KB    |            |   0% pyyaml-6.0           | 147 KB    | #          |  11% pyyaml-6.0           | 147 KB    | ########## | 100% pyyaml-6.0           | 147 KB    | ########## | 100% 
+win_inet_pton-1.1.0  | 9 KB      |            |   0% win_inet_pton-1.1.0  | 9 KB      | ########## | 100% win_inet_pton-1.1.0  | 9 KB      | ########## | 100% 
+importlib-metadata-4 | 41 KB     |            |   0% importlib-metadata-4 | 41 KB     | ###8       |  39% importlib-metadata-4 | 41 KB     | ########## | 100% 
+pytz-2022.1          | 196 KB    |            |   0% pytz-2022.1          | 196 KB    | 8          |   8% pytz-2022.1          | 196 KB    | #####7     |  57% pytz-2022.1          | 196 KB    | ########9  |  90% pytz-2022.1          | 196 KB    | ########## | 100% 
+ipython-8.4.0        | 1012 KB   |            |   0% ipython-8.4.0        | 1012 KB   | 1          |   2% ipython-8.4.0        | 1012 KB   | 7          |   8% ipython-8.4.0        | 1012 KB   | #4         |  14% ipython-8.4.0        | 1012 KB   | ##         |  21% ipython-8.4.0        | 1012 KB   | ##8        |  28% ipython-8.4.0        | 1012 KB   | ###3       |  33% ipython-8.4.0        | 1012 KB   | ####1      |  41% ipython-8.4.0        | 1012 KB   | ####4      |  44% ipython-8.4.0        | 1012 KB   | #####5     |  55% ipython-8.4.0        | 1012 KB   | ######6    |  66% ipython-8.4.0        | 1012 KB   | #######7   |  77% ipython-8.4.0        | 1012 KB   | ########6  |  87% ipython-8.4.0        | 1012 KB   | #########9 | 100% ipython-8.4.0        | 1012 KB   | ########## | 100% 
+aws-c-common-0.4.57  | 147 KB    |            |   0% aws-c-common-0.4.57  | 147 KB    | #          |  11% aws-c-common-0.4.57  | 147 KB    | ########6  |  87% aws-c-common-0.4.57  | 147 KB    | ########## | 100% 
+decorator-5.1.1      | 12 KB     |            |   0% decorator-5.1.1      | 12 KB     | ########## | 100% decorator-5.1.1      | 12 KB     | ########## | 100% 
+python-fastjsonschem | 232 KB    |            |   0% python-fastjsonschem | 232 KB    | 6          |   7% python-fastjsonschem | 232 KB    | ####8      |  48% python-fastjsonschem | 232 KB    | #######5   |  76% python-fastjsonschem | 232 KB    | #########6 |  97% python-fastjsonschem | 232 KB    | ########## | 100% 
+testpath-0.6.0       | 85 KB     |            |   0% testpath-0.6.0       | 85 KB     | #8         |  19% testpath-0.6.0       | 85 KB     | ########## | 100% testpath-0.6.0       | 85 KB     | ########## | 100% 
+nbformat-5.5.0       | 146 KB    |            |   0% nbformat-5.5.0       | 146 KB    | #          |  11% nbformat-5.5.0       | 146 KB    | ######5    |  66% nbformat-5.5.0       | 146 KB    | ########## | 100% nbformat-5.5.0       | 146 KB    | ########## | 100% 
+aws-checksums-0.1.9  | 50 KB     |            |   0% aws-checksums-0.1.9  | 50 KB     | ###1       |  32% aws-checksums-0.1.9  | 50 KB     | ########## | 100% 
+requests-2.28.1      | 101 KB    |            |   0% requests-2.28.1      | 101 KB    | #5         |  16% requests-2.28.1      | 101 KB    | ######3    |  63% requests-2.28.1      | 101 KB    | ########## | 100% 
+idna-3.3             | 49 KB     |            |   0% idna-3.3             | 49 KB     | ###2       |  33% idna-3.3             | 49 KB     | ########## | 100% 
+webencodings-0.5.1   | 21 KB     |            |   0% webencodings-0.5.1   | 21 KB     | #######6   |  77% webencodings-0.5.1   | 21 KB     | ########## | 100% 
+zeromq-4.3.4         | 4.2 MB    |            |   0% zeromq-4.3.4         | 4.2 MB    |            |   0% zeromq-4.3.4         | 4.2 MB    | 1          |   1% zeromq-4.3.4         | 4.2 MB    | 2          |   2% zeromq-4.3.4         | 4.2 MB    | 2          |   3% zeromq-4.3.4         | 4.2 MB    | 4          |   4% zeromq-4.3.4         | 4.2 MB    | 5          |   5% zeromq-4.3.4         | 4.2 MB    | 6          |   7% zeromq-4.3.4         | 4.2 MB    | 7          |   8% zeromq-4.3.4         | 4.2 MB    | 8          |   9% zeromq-4.3.4         | 4.2 MB    | #          |  10% zeromq-4.3.4         | 4.2 MB    | #1         |  12% zeromq-4.3.4         | 4.2 MB    | #3         |  13% zeromq-4.3.4         | 4.2 MB    | #4         |  15% zeromq-4.3.4         | 4.2 MB    | #6         |  16% zeromq-4.3.4         | 4.2 MB    | #7         |  17% zeromq-4.3.4         | 4.2 MB    | #8         |  19% zeromq-4.3.4         | 4.2 MB    | ##         |  20% zeromq-4.3.4         | 4.2 MB    | ##1        |  22% zeromq-4.3.4         | 4.2 MB    | ##3        |  23% zeromq-4.3.4         | 4.2 MB    | ##4        |  25% zeromq-4.3.4         | 4.2 MB    | ##6        |  26% zeromq-4.3.4         | 4.2 MB    | ##7        |  28% zeromq-4.3.4         | 4.2 MB    | ##9        |  29% zeromq-4.3.4         | 4.2 MB    | ###        |  31% zeromq-4.3.4         | 4.2 MB    | ###2       |  32% zeromq-4.3.4         | 4.2 MB    | ###3       |  34% zeromq-4.3.4         | 4.2 MB    | ###5       |  35% zeromq-4.3.4         | 4.2 MB    | ###6       |  37% zeromq-4.3.4         | 4.2 MB    | ###8       |  38% zeromq-4.3.4         | 4.2 MB    | ####       |  40% zeromq-4.3.4         | 4.2 MB    | ####1      |  42% zeromq-4.3.4         | 4.2 MB    | ####3      |  43% zeromq-4.3.4         | 4.2 MB    | ####4      |  44% zeromq-4.3.4         | 4.2 MB    | ####5      |  45% zeromq-4.3.4         | 4.2 MB    | ####7      |  47% zeromq-4.3.4         | 4.2 MB    | ####9      |  49% zeromq-4.3.4         | 4.2 MB    | #####      |  51% zeromq-4.3.4         | 4.2 MB    | #####2     |  52% zeromq-4.3.4         | 4.2 MB    | #####3     |  54% zeromq-4.3.4         | 4.2 MB    | #####5     |  56% zeromq-4.3.4         | 4.2 MB    | #####7     |  58% zeromq-4.3.4         | 4.2 MB    | #####9     |  60% zeromq-4.3.4         | 4.2 MB    | ######1    |  62% zeromq-4.3.4         | 4.2 MB    | ######3    |  63% zeromq-4.3.4         | 4.2 MB    | ######5    |  65% 

@@ -1,7 +1,7 @@
 # 6003Machine-learing
 6003 Machine learing
 
-Buid Machine learning application and Machine learing data pipeline
+Build Machine learning application and Machine learing data pipeline
 
 # What is Streamlit?
 https://docs.streamlit.io/
